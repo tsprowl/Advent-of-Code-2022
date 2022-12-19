@@ -53,3 +53,10 @@ for x in f:
 
 print("Part 1 Answer: ", completeOverlapCount)
 print("Part 2 Answer: ", partialOverlapCount)
+
+a1 = 7
+b1 = 11
+
+a1 -= b1
+
+print(a1)
